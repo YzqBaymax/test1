@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\u200b\\u3000\\-\u3001\u3002\uff0c\uff0e\uff1f\uff01\uff1b]+","pipeline":["stemmer"]},"docs":[]}
+{"config":{"lang":["en"],"separator":"[\\s\\u200b\\u3000\\-\u3001\u3002\uff0c\uff0e\uff1f\uff01\uff1b]+","pipeline":["stemmer"]},"docs":[{"location":"","title":"Home","text":""},{"location":"develop/polish/","title":"\u6da6\u8272\u7f51\u7ad9","text":"Bilibili bilibili"}]}
